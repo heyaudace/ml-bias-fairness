@@ -1,2 +1,2 @@
 # ml-bias-fairness
-Guidelines for quantifying and eliminating bias in Machine Learning Systems
+Tutorials and guidelines for creating fair Machine Learning Applications.
